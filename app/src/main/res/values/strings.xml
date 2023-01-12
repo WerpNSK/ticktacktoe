@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TickTackToe</string>
+    <string name="new_game">Новая Игра</string>
+    <string name="about">О создателях</string>
+    <string name="x_turn">Ход крестиков</string>
+    <string name="o_turn">Ход ноликов</string>
+    <string name="x_win">Победили крестики</string>
+    <string name="o_win">Победили нолики</string>
+    <string name="draw">Ничья</string>
+    <string name="restart">Рестарт</string>
+</resources>
