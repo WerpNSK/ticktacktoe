@@ -105,12 +105,12 @@ public class MainGame extends AppCompatActivity
 
     public void restartButton(View v)
     {
-        for (int i = 0; i <= 9; i++)
+        for (int i = 0; i < 9; i++)
         {
             buttons[i].setText(" ");
         }
-        count=0;
-        isCross=true;
+        count = 0;
+        isCross = true;
         textView.setText(R.string.x_turn);
     }
 
